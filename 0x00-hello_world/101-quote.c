@@ -3,6 +3,7 @@
 /**
  * main - prints a text
  *
+ * Discription: prints main function
  * Returns: always 1 (success)
  */
 int main(void)
