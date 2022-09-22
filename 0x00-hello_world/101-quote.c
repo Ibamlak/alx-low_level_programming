@@ -3,7 +3,8 @@
 /**
  * main - prints a text
  *
- * Discription: prints main function
+ * Discription: using main function
+ * this program prints a value to standard error
  * Returns: always 1 (success)
  */
 int main(void)
