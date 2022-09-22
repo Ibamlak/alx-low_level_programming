@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * main - print the string in the printf function 
+ * main - print the string in the printf function
  *
- * Description: using the main function 
+ * Description: using the main function
  * this program prints if it is zero, negative or positive
  * Return: 0
  */
