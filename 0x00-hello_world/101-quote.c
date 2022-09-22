@@ -3,7 +3,7 @@
 /**
  * main - prints a text
  *
- * Discription: using main function
+ * Description: using main function
  * this program prints a value to standard error
  * Returns: always 1 (success)
  */
