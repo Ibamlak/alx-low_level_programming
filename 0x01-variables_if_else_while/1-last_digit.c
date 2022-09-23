@@ -2,6 +2,13 @@
 #include <stdlib.h>
 #include <time.h>
 
+/**
+ * main - print the string in the printf function
+ *
+ * Description: using the main function
+ * this program prints the intended answer
+ * Return: 0
+ */
 int main(void)
 {
 	int n, lastDigit;
@@ -15,7 +22,7 @@ int main(void)
 	}
        if (lastDigit == 0)
        {
-	       printf("Last digit of %d is %d and is 0",n , lastDigit);
+	       printf("Last digit of %d is %d and is 0\n",n , lastDigit);
        }
        if (lastDigit < 6 && lastDigit != 0)
        {
