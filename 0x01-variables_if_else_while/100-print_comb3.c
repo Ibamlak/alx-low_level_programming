@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - print the digits in the putchar function
+ * main - prints a character in the putchar function
  *
- * Description: using the main function
- * it prints all possible combinations of two digits
- * Result: 0
+ * Description: using main function
+ * outputs combination of two digits
+ * Return: 0
  */
 int main(void)
 {
@@ -15,7 +15,7 @@ int main(void)
 	{
 		for (y = '1'; y <= '9'; y++)
 		{
-			if (x == y || y < x )
+			if (x == y || y < x)
 			{
 				continue;
 			}

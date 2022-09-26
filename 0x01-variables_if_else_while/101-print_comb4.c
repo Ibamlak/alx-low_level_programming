@@ -5,7 +5,7 @@
  *
  * Description: using the main function
  * print combinations ow three digit
- * Result: 0
+ * Return: 0
  */
 int main(void)
 {

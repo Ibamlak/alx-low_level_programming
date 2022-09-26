@@ -5,11 +5,11 @@
  *
  * Description: using the main function
  * prints the combination of two digits
- * Result: 0
+ * Return: 0
  */
 int main(void)
 {
-	int i, x ,y , z;
+	int i, x, y, z;
 
 	for (i = '0'; i <= '9'; i++)
 	{
@@ -19,7 +19,7 @@ int main(void)
 			{
 				for (z = '0'; z <= '9'; z++)
 				{
-					if ((i >= y && x > z) && (i == y && x == z)) 
+					if ((i >= y && x > z) && (i == y && x == z))
 					{
 						continue;
 					}
